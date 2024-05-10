@@ -22,6 +22,8 @@ Simple age and gender detector using machine learning
 
 ## Sample Outputs
 ###Sample Output_1
+
+
 ![Sample output1](https://github.com/srinivasprabhas/Age_Gender_Detector/blob/main/Output_Image_1.PNG)
 ![Sample output1](https://github.com/srinivasprabhas/Age_Gender_Detector/blob/main/Output_Image_2.PNG)
 ![Sample output1](https://github.com/srinivasprabhas/Age_Gender_Detector/blob/main/Output_Image_3.PNG)
