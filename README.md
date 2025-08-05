@@ -1,5 +1,5 @@
 # Age_Gender_Detector
-Simple age and gender detector using machine learning 
+Age and gender detector using machine learning 
 ## To simplify this model:
 1. Clone this repository
 2. Run the [gui.py](https://github.com/srinivasprabhas/Age_Gender_Detector/blob/main/gui.py) file
